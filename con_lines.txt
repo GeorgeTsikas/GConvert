@@ -1,0 +1,8 @@
+      code !embedded comment
+     1code
+
+     0 code
+     ! code                                                             past72
+! comment
+     ; code
+     8 code

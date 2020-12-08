@@ -1,0 +1,2 @@
+      a = "aaaah"                                                      past72
+      b = "baaah"   !embedded comment                                  past72
